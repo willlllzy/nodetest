@@ -6,5 +6,5 @@ app.listen(1337, function() {
 });
 
 app.get('/', function(req, res) {
-  res.send('hello world')
+  res.send('hello universe')
 });
